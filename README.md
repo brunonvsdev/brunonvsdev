@@ -19,7 +19,6 @@ Ol√°! Sou Bruno Novais, estudante de Engenharia de Software na Universidade Cat√
   &nbsp;&nbsp;
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> CSS
   &nbsp;&nbsp;
-  <img align="center" alt="SQL" height="40" width="50" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" /> SQL
 </div><br/>
 
 ### Banco de Dados:
