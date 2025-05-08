@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🚀 Sobre mim
+
+**`Desenvolvedor Full-Stack`**
+
+Olá! Sou Bruno Novais, estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal). Desenvolvedor full stack em formação, gosto de criar aplicações completas que aliam boa experiência de uso, eficiência e organização. Busco sempre desenvolver projetos com qualidade técnica e impacto positivo.
+
 
 <!--
 **brunonvsdev/brunonvsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
