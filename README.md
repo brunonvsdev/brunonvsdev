@@ -13,7 +13,7 @@ Ol√°! Sou Bruno Novais, estudante de Engenharia de Software na Universidade Cat√
   <img align="center" alt="Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java
   <img align="center" alt="HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> HTML
   <img align="center" alt="CSS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> CSS
-   <img align="center" alt="JavaScript" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> JavaScript
+  <img align="center" alt="JavaScript" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> JavaScript
 </div><br/>
 
 ### Banco de Dados:
@@ -33,11 +33,11 @@ Ol√°! Sou Bruno Novais, estudante de Engenharia de Software na Universidade Cat√
 </div><br/>
 
 
- <div align="center">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=brunonvsdev&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonvsdev&layout=compact&theme=tokyonight"/>
+ <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=brunonvsdev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonvsdev&layout=compact&theme=tokyonight"/>
 </div>
+
 
 
 ---
