@@ -37,7 +37,7 @@ Ol√°! Sou Bruno Novais, estudante de Engenharia de Software na Universidade Cat√
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> Visual Studio Code
 </div><br/>
 
-<table align="center" >
+<table align="center" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunonvsdev&show_icons=true&theme=tokyonight"/>
@@ -47,6 +47,7 @@ Ol√°! Sou Bruno Novais, estudante de Engenharia de Software na Universidade Cat√
     </td>
   </tr>
 </table>
+
 
 
 ---
