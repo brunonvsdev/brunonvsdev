@@ -31,10 +31,12 @@ OlÃ¡! Sou Bruno Novais, estudante de Engenharia de Software na Universidade CatÃ
   <img alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" />
 </div><br/>
 
-<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=brunonvsdev&show_icons=true&theme=tokyonight"/>
-<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonvsdev&layout=compact&theme=tokyonight"/>
+---
 
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunonvsdev&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonvsdev&layout=compact&theme=tokyonight"/>
 
 ---
+
+
+
