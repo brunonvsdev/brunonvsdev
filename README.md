@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Olá! Sou Bruno Novais, estudante de Engenharia de Software na Universidade Católica do Salvador (UCSal). Desenvolvedor full stack em formação, gosto de criar aplicações completas que combinam boa experiência de uso, eficiência e organização. Busco sempre desenvolver projetos com qualidade técnica e impacto positivo.
+Olá! Sou Bruno Novais, estudante de Sistema da Informação na Universidade Estadual da Bahia (UNEB). Desenvolvedor full stack em formação, gosto de criar aplicações completas que combinam boa experiência de uso, eficiência e organização. Busco sempre desenvolver projetos com qualidade técnica e impacto positivo.
 
 ## 🛠️ Tecnologias e Ferramentas
 
